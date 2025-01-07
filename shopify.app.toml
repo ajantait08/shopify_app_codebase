@@ -3,7 +3,7 @@
 client_id = "982bec5bcffa3ccfa4c4727346baf55f"
 name = "wishlist-app"
 handle = "wishlist-app-264"
-application_url = "https://occupations-schema-mauritius-inns.trycloudflare.com"
+application_url = "https://busy-reviews-orientation-transcripts.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://occupations-schema-mauritius-inns.trycloudflare.com/auth/callback",
-  "https://occupations-schema-mauritius-inns.trycloudflare.com/auth/shopify/callback",
-  "https://occupations-schema-mauritius-inns.trycloudflare.com/api/auth/callback"
+  "https://busy-reviews-orientation-transcripts.trycloudflare.com/auth/callback",
+  "https://busy-reviews-orientation-transcripts.trycloudflare.com/auth/shopify/callback",
+  "https://busy-reviews-orientation-transcripts.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
